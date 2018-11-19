@@ -1,5 +1,5 @@
 # Site settings
-title: Project Pages
+title: 马铭来的博客
 description: "记录学习生活"
 url: "https://mml403249087.github.io"
 email: sanhanwen@163.com
@@ -9,7 +9,7 @@ keyword: "WEB CSS JS HTML"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
