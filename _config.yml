@@ -1,7 +1,9 @@
 # Site settings
 title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+description: "记录学习生活"
+url: "https://mml403249087.github.io"
+email: sanhanwen@163.com
+keyword: "WEB CSS JS HTML"
 
 
 
@@ -13,7 +15,7 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  mml403249087
 project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
